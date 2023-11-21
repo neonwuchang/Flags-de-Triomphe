@@ -12,7 +12,7 @@ I unzipped the file using
 
 And of course, used `TAB` to make life easier!
 
-Then, I navigated through the directory using `cd` and a lot of tabs. At this level, there was only one file, an executable named fang-of-haynekhtnamet, 
+Then, I navigated through the directory using `ls` and `cd` and a lot of tabs. At this level, there was only one file, an executable named fang-of-haynekhtnamet, 
 which i did execute (using `./`). 
 
 And viola! There's the flag!
