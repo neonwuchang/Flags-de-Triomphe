@@ -8,4 +8,4 @@ which is a substitution cipher where a shift of 13 places is made (essentially a
 
 Simply use aany of the many online tools to quickly decrypt the flag and we're done!
 
-**13** is another problem that simply uses the ROT13 to encrypt the flag. 
+[**13**](https://github.com/neonwuchang/don-t_set_up_flags/blob/dcef5a4d02b0e4e92e8c93eb147e276ee0cf68e9/picoCTF/Cryptography/13.md) is another problem that simply uses the ROT13 to encrypt the flag. 
