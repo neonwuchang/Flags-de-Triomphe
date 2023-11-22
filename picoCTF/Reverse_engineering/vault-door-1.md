@@ -6,7 +6,8 @@ This vault uses some complicated arrays! I hope you can make sense of it, specia
 
 ## Solution process
 
-This problem is very similar to vault-door-training (obviously). However, here the `checkPassword` function is 
+This problem is very similar to [vault-door-training](https://github.com/neonwuchang/don-t_set_up_flags/blob/496409321681306f1c0e0e7d6b8b2ea019818880/picoCTF/Reverse_engineering/vault-door-training.md)
+(obviously). However, here the `checkPassword` function is 
 ever so slightly better:
 ```
  public boolean checkPassword(String password) {
