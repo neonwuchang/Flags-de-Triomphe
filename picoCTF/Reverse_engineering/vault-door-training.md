@@ -40,3 +40,6 @@ class VaultDoorTraining {
 }
 ```
 We notice that the correct passWord is actually hard coded in the `checkPassword()` function! That's the flag!
+We just need to put it in the picoCTF{} format. 
+
+Also, check [vault-door-1](https://github.com/neonwuchang/don-t_set_up_flags/blob/0df7ff307555b47bf2bf6306c7af81b147616ff4/picoCTF/Reverse_engineering/vault-door-1.md)
