@@ -51,4 +51,4 @@ public static void main(String args[]) throws IOException {
 
 The password is clearly present in the `openSafe` method. The only thing is, it is base64 encoded. 
 (The program is base64 encoding the user input password and comparing it to a string called `encodedkey`...good ;) variable naming practices.)
-We simply decode the string and input the decoded value as the password to get the flag.
+We simply decode the password string, and theat's the flag! 
