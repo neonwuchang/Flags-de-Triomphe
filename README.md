@@ -1,1 +1,2 @@
-# don-t_set_up_flags
+# About
+Documenting the process of capturing flags.
