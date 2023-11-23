@@ -8,7 +8,7 @@ After opening the Linux terminal and getting the file using
 `$ wget https://mercury.picoctf.net/static/72712e82413e78cc8aa8d553ffea42b0/Addadshashanammu.zip`
 
 I unzipped the file using 
-`unzib Addadshashanammu.zip`
+`unzip Addadshashanammu.zip`
 
 And of course, used `TAB` to make life easier!
 
