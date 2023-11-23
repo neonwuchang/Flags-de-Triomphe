@@ -1,2 +1,2 @@
 # About
-Documenting the process of capturing flags.
+Documenting the thought process of capturing flags.
