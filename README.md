@@ -1,4 +1,4 @@
-### Here lie all flags vanquished. 
+### Here lie all flags vanquished
 
 # About
 Documenting the thought process of capturing flags.
