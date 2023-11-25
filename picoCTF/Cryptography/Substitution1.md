@@ -14,9 +14,9 @@ A common technioque for breaking a substitution cipher frequency attack. But bef
 
 This seems to be in the pattern `... the flag is: picoCTF{...}`.
 
-Although the phrase that we can be really sure about is 'picoCTF', the phrase 'the flag is' occurs very commonlyas well and corresponds very well with what we have.
+Although the phrase that we can be really sure about is 'picoCTF', the phrase 'the flag is' occurs very commonly as well and corresponds very well with what we have.
 Coincidence? I think not. Thus, it is relatively safe to move forward with the assumption that `yar thjm ze: bzskSYT{` corresponds to `the flag is: picoCTF{`.
 
-Using a combination of such association, frequency analysis, and common sense, we can decrypt the flag.
+Using a combination of such association based on educated guesses and common sense, we can decrypt the flag.
 
-As a fun activity, I constructed the substitution key: `JLSQRTMAZ_VHXCKBUDEYN_G_O_`
+As a fun activity, I constructed the substitution key: `JLSQRTMAZ_VHXCKBUDEYN_G_O_`, where the '_'s are used as placeholders for characters that I did not decrypt.
