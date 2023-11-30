@@ -4,7 +4,10 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 ![image](https://github.com/neonwuchang/Flags-de-Triomphe/assets/103783716/9b5b2452-9bb3-455f-a48c-d804df2cb11d)
 
 ## Solution process
-There are many online tools available to analyse images; I used [this](https://www.imageforensic.org/) one to analyse the image. Analysis screenshot:
+There are many online tools available to analyse images; I used [this](https://www.imageforensic.org/) one to analyse the image. (Another tool I like is
+[this one](https://fotoforensics.com/).)
+
+Analysis screenshot:
 
 ![image](https://github.com/neonwuchang/Flags-de-Triomphe/assets/103783716/25c274cb-9e40-441c-a36f-f2e275ea4fea)
 
