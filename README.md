@@ -10,7 +10,7 @@ Note: These problems were originally solved quite a while before this project wa
 I would like to prioritise the solution and documentation of new unsolved challenges, so 
 "General Skills" is be on a hiatus.
 
-# Some comments
+# Some notes
 - There are some standard methods to solving certain problems in these CTF challenges, but my goal has been to get to the correct flag as quickly as
   possible. Often times, this has involved the use of some well-informed and logically grounded estimation and/or assumptions, the umportance of which
   can not be   captured in documentation, and which may make the process seem a tad bit "un"-procedural. But after all, _that_ is the beauty of the human
