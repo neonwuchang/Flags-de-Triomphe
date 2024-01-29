@@ -8,7 +8,7 @@ This is an ongoing project.
 
 Note: These problems were originally solved quite a while before this project was started. 
 I would like to prioritise the solution and documentation of new unsolved challenges, so 
-"General Skills" is be on a hiatus.
+"General Skills" is on a hiatus.
 
 # Some notes
 - There are some standard methods to solving certain problems in these CTF challenges, but my goal has been to get to the correct flag as quickly as
